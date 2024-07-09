@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🎓 BSc. Hons. in Physics
+- 🎓 MSc. in Astrophysical Sciences
 - 🔭 Currently doing research in Heliospheric Physics and High Energy Astrophysics
-- 💡 Interested in: Astrophysics, Mathematics
+- 💡 Interested in: Astrophysics, Plasma Physics, Astroparticle Physics, Applied Mathematics
 <!--
 **FransvdMerwe/FransvdMerwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
