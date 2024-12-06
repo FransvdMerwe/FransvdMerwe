@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🎓 MSc. in Astrophysical Sciences
-- 🔭 Currently doing research in Heliospheric Physics and High Energy Astrophysics
+- 🔭 Currently a Master's student in the High Energy Astrophysics group of the NWU Center for Space Research working on the interplay between stochastic particle acceleration and radiative cooling in extreme astrophysical environments
 - 💡 Interested in: Astrophysics, Plasma Physics, Astroparticle Physics, Applied Mathematics
 <!--
 **FransvdMerwe/FransvdMerwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
